@@ -58,3 +58,5 @@ var getSelectionText = function() {
 };
 AddWord(getSelectionText());
 ```
+
+#####  List of Saved Words [{Source}](GetListOfSavedWordsFromLocalStorage.js)
