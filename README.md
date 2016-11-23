@@ -1,8 +1,8 @@
 # Bookmarklets
 It's a collection of useful bookmarklets. 
 ### More info on Bookmarklets
-- [{What's a bookmarklet?}](https://en.wikipedia.org/wiki/Bookmarklet)
-- [{How to use a bookmarklet?}](http://www.howtogeek.com/189358/beginner-geek-how-to-use-bookmarklets-on-any-device/)
+- [What's a bookmarklet?](https://en.wikipedia.org/wiki/Bookmarklet)
+- [How to use a bookmarklet?](http://www.howtogeek.com/189358/beginner-geek-how-to-use-bookmarklets-on-any-device/)
 
 ### Selected Text Related
 ##### Google Word Definition [{Source}](SearchSelectedWordsDefinitionOnGoogle.js)
