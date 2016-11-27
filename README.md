@@ -63,3 +63,5 @@ AddWord(getSelectionText());
 ```
 
 #####  List of Saved Words [{Source}](GetListOfSavedWordsFromLocalStorage.js)
+
+#####  Extract Word List [{Source}](ExtractWordList.js)
