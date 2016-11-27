@@ -14,4 +14,6 @@ It's a collection of useful bookmarklets.
 
 #####  List of Saved Words [{Source}](GetListOfSavedWordsFromLocalStorage.js)
 
+### Scrapes
+
 #####  Extract Word List [{Source}](ExtractWordList.js)
