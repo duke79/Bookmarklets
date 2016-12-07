@@ -17,3 +17,5 @@ It's a collection of useful bookmarklets.
 ### Scrapes
 
 #####  Extract Word List [{Source}](ExtractWordList.js)
+
+#####  Download Youtube Videos [{Source}](YoutubePlaylistDownload.js)
